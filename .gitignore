@@ -2,3 +2,4 @@ venv/
 data/
 01_raw_data/
 03_cleaned_data/
+*.csv
